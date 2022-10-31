@@ -1,0 +1,9 @@
+div{
+    background: rgb(3,3,31);
+    background: radial-gradient(circle, rgba(3,3,31,1) 0%, rgba(10,117,145,1) 100%);
+}
+
+app-redes{
+    float: right;
+    margin-top: 25px;
+}

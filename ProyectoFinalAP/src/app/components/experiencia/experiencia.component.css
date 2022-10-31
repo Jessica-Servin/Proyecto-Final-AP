@@ -1,0 +1,8 @@
+.row{
+    padding: 15px;
+    background: rgb(6,92,106);
+    background: linear-gradient(90deg, rgba(6,92,106,1) 0%, rgba(193,219,228,1) 50%, rgba(6,92,106,1) 100%);
+}
+h1, h3{
+    display: inline;
+}
